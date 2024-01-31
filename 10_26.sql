@@ -1,0 +1,6 @@
+CREATE TABLE person_table
+(SSN NUMBER(9),
+Fname VARCHAR(15),
+Lname VARCHAR(20),
+Address VARCHAR(50),
+DOB VARCHAR(16));
